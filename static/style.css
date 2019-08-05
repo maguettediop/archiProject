@@ -1,0 +1,36 @@
+
+
+body{color:#666;font-size:14px;font-family:Arial,Helvetica,sans-serif;background:#c2f8f8}
+h1{font-size:2em}
+.center{text-align:center;margin-left:auto;margin-right:auto;width:80%}
+.right{float:right;margin-right:10px}
+.left{float:left;margin-left:10px}
+.left,.right{width:200px}
+.success{color:green}
+.error{color:red}
+.success,.error,.bold{font-weight:bold;font-size:16px}
+.small{font-size:x-small}
+.italic{font-style:italic}
+.inline{display:inline}
+header{margin-bottom:10px}
+footer{ font-family: Arial, Helvetica, sans-serif;
+    position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  color: rgb(10, 0, 0);
+  text-align: center;}
+input,textarea{width:260px}
+.clear{clear:both}
+
+#entete
+{
+	font-size: 2em;
+	text-align: center;
+	font-family: "AGENCY FB";
+	text-transform: uppercase;
+	border: 3px ridge black;
+	margin-bottom: 10px;
+	/*border-bottom: 3px ridge black;*/
+	/*border:1px solid green;*/
+}
